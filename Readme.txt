@@ -1,0 +1,1 @@
+Install latest version of the Tensorflow and run the Ipynb file
